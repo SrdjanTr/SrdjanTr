@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects which include Data analysis, Machine learning, Data mining, Decision tree and similar concepts.
 - 📫 How to reach me? Through this account or email SrdjanTr@yahoo.com.
 - 😄 Pronouns: Male
-- ⚡ Fun fact: While I was counting my steps on the street, some girl asked me how far it was to the main square. I said 180 (current number of my steps). She asked me: minutes, seconds? And I answered her: steps. She continued on, shaking her head :-)
+- ⚡ Fun fact: I used to have a lot of nicknames, like Martian, Rockit or Strike. First two due to the colorful hairstyle, but the last because of the last name and many strikes at that time.
 
 <!---
 SrdjanTr/SrdjanTr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
